@@ -1,0 +1,10 @@
+.LoginButton{
+    width: 5em;
+    height: 4em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size: 2.5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
