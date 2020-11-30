@@ -13,8 +13,11 @@ class Home extends Component {
     render(){
         return(
             <div className='Home'>
+
                 <Header />
+
                 <Section />
+                
             </div>
         )
     }
