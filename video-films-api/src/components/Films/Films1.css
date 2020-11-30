@@ -1,4 +1,4 @@
-.Films{
+.Films1{
     width: 15%;
     height: 25em;
     display: flex;
@@ -7,9 +7,10 @@
     align-items: center;
     background-color: #2e2928;
     border-radius: 5% 5% 5% 5%;
+    color: white;
 }
 
-.Films img{
+.Films1 img{
     width: 90%;
     height: 20em;
     display: flex;
