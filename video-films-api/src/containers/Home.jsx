@@ -3,6 +3,7 @@ import React, {Component} from 'react';
 import '../containers/Home.css';
 
 import Header from '../components/Header/Header';
+import Section from '../components/Section/Section';
 
 class Home extends Component {
     constructor(){
@@ -13,6 +14,7 @@ class Home extends Component {
         return(
             <div className='Home'>
                 <Header />
+                <Section />
             </div>
         )
     }
